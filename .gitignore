@@ -136,3 +136,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# PDF report
+LLM_fine_tuning_final.pdf
